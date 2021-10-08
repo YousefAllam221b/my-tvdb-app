@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-tvdb-app/static/css/main.1200fa39.chunk.css",
+    "main.css": "/my-tvdb-app/static/css/main.eda2f726.chunk.css",
     "main.js": "/my-tvdb-app/static/js/main.4230ad06.chunk.js",
     "main.js.map": "/my-tvdb-app/static/js/main.4230ad06.chunk.js.map",
     "runtime-main.js": "/my-tvdb-app/static/js/runtime-main.b1f1e56e.js",
@@ -8,13 +8,13 @@
     "static/js/2.4652bae9.chunk.js": "/my-tvdb-app/static/js/2.4652bae9.chunk.js",
     "static/js/2.4652bae9.chunk.js.map": "/my-tvdb-app/static/js/2.4652bae9.chunk.js.map",
     "index.html": "/my-tvdb-app/index.html",
-    "static/css/main.1200fa39.chunk.css.map": "/my-tvdb-app/static/css/main.1200fa39.chunk.css.map",
+    "static/css/main.eda2f726.chunk.css.map": "/my-tvdb-app/static/css/main.eda2f726.chunk.css.map",
     "static/js/2.4652bae9.chunk.js.LICENSE.txt": "/my-tvdb-app/static/js/2.4652bae9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b1f1e56e.js",
     "static/js/2.4652bae9.chunk.js",
-    "static/css/main.1200fa39.chunk.css",
+    "static/css/main.eda2f726.chunk.css",
     "static/js/main.4230ad06.chunk.js"
   ]
 }
