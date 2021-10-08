@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-tvdb-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/my-tvdb-app/static/js/main.d7658a70.chunk.js",
+    "main.js.map": "/my-tvdb-app/static/js/main.d7658a70.chunk.js.map",
+    "runtime-main.js": "/my-tvdb-app/static/js/runtime-main.a5fae751.js",
+    "runtime-main.js.map": "/my-tvdb-app/static/js/runtime-main.a5fae751.js.map",
+    "static/js/2.c82959db.chunk.js": "/my-tvdb-app/static/js/2.c82959db.chunk.js",
+    "static/js/2.c82959db.chunk.js.map": "/my-tvdb-app/static/js/2.c82959db.chunk.js.map",
+    "static/js/3.a0dfb970.chunk.js": "/my-tvdb-app/static/js/3.a0dfb970.chunk.js",
+    "static/js/3.a0dfb970.chunk.js.map": "/my-tvdb-app/static/js/3.a0dfb970.chunk.js.map",
+    "index.html": "/my-tvdb-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/my-tvdb-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c82959db.chunk.js.LICENSE.txt": "/my-tvdb-app/static/js/2.c82959db.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-tvdb-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5fae751.js",
+    "static/js/2.c82959db.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d7658a70.chunk.js"
+  ]
+}
